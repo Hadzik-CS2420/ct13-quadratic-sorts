@@ -2,9 +2,16 @@
   "assignment": {
     "canvas_title": "👨‍💻 Code-Together 12: O(n²) Sorting Algorithms",
     "points_possible": 30,
-    "submission_types": ["online_url"],
+    "submission_types": [
+      "online_upload"
+    ],
     "github_classroom": true,
     "github_classroom_url": "",
-    "executable_name": "ct12-quadratic-sorts.exe"
+    "executable_name": "ct12-quadratic-sorts.exe",
+    "allowed_extensions": [
+      "png",
+      "jpg",
+      "jpeg"
+    ]
   }
 }
